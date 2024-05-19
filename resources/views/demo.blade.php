@@ -258,7 +258,7 @@ img.emoji {
 		<article id="post-2" class="twentyseventeen-panel  post-2 page type-page status-publish hentry" >
 	<!--#main-slider-->
     <div id="main-slider">
-	        <div class="main-slide" style="background-image: url(https://at10.mediawz.com/wp-content/uploads/2019/06/ms_banner_img1.jpg);">
+	        <div class="main-slide" style="background-image: url('/images/vin1.jpg');">
             <div class="wrapper">
                 <div class="main-content text-center">
                     <div>
