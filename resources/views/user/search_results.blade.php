@@ -11,23 +11,16 @@
 <script>(function(html){html.className = html.className.replace(/\bno-js\b/,'js')})(document.documentElement);</script>
 
 	<!-- This site is optimized with the Yoast SEO plugin v14.4.1 - https://yoast.com/wordpress/plugins/seo/ -->
-	<title>MÙNG TƠI - AT10 FOOD</title>
-	<meta name="robots" content="index, follow" />
-	<meta name="googlebot" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
-	<meta name="bingbot" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
-	<link rel="canonical" href="https://at10.chonweb.vn/san-pham/mung-toi/" />
+	<title>Bạn đã tìm táo xanh - AT10 FOOD</title>
+	<meta name="robots" content="noindex, follow" />
 	<meta property="og:locale" content="vi_VN" />
 	<meta property="og:type" content="article" />
-	<meta property="og:title" content="MÙNG TƠI - AT10 FOOD" />
-	<meta property="og:description" content="Rau cải bắp hữu cơ (Brassica oleracea nhóm Capitata) là loại rau chủ lực trong họ Cải (còn gọi là họ Thập tự - Brassicaceae/Cruciferae),có xuất xứ từ vùng Địa Trung Hải. Nó là cây thân thảo, sống hai năm, và là một thực vật có hoa thuộc nhóm hai lá mầm với các lá tạo thành một cụm đặc hình gần như hình cầu.Là một loại rau hữu cơ rất dễ nhận biết,khó có thể nhầm lẫn" />
-	<meta property="og:url" content="http://at10.chonweb.vn/san-pham/mung-toi/" />
+	<meta property="og:title" content="Bạn đã tìm táo xanh - AT10 FOOD" />
+	<meta property="og:url" content="https://at10.mediawz.com/search/táo xanh/" />
 	<meta property="og:site_name" content="AT10 FOOD" />
-	<meta property="article:modified_time" content="2019-06-05T16:08:24+00:00" />
-	<meta property="og:image" content="https://at10.mediawz.com/wp-content/uploads/2019/06/mungtoi_large.jpg" />
-	<meta property="og:image:width" content="480" />
-	<meta property="og:image:height" content="480" />
 	<meta name="twitter:card" content="summary_large_image" />
-	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://at10.mediawz.com/#website","url":"https://at10.mediawz.com/","name":"AT10 FOOD","description":"","potentialAction":[{"@type":"SearchAction","target":"https://at10.mediawz.com/?s={search_term_string}","query-input":"required name=search_term_string"}],"inLanguage":"vi"},{"@type":"ImageObject","@id":"http://at10.chonweb.vn/san-pham/mung-toi/#primaryimage","inLanguage":"vi","url":"https://at10.mediawz.com/wp-content/uploads/2019/06/mungtoi_large.jpg","width":480,"height":480},{"@type":"WebPage","@id":"http://at10.chonweb.vn/san-pham/mung-toi/#webpage","url":"http://at10.chonweb.vn/san-pham/mung-toi/","name":"M\u00d9NG T\u01a0I - AT10 FOOD","isPartOf":{"@id":"https://at10.mediawz.com/#website"},"primaryImageOfPage":{"@id":"http://at10.chonweb.vn/san-pham/mung-toi/#primaryimage"},"datePublished":"2019-06-05T16:07:52+00:00","dateModified":"2019-06-05T16:08:24+00:00","breadcrumb":{"@id":"http://at10.chonweb.vn/san-pham/mung-toi/#breadcrumb"},"inLanguage":"vi","potentialAction":[{"@type":"ReadAction","target":["http://at10.chonweb.vn/san-pham/mung-toi/"]}]},{"@type":"BreadcrumbList","@id":"http://at10.chonweb.vn/san-pham/mung-toi/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"item":{"@type":"WebPage","@id":"http://at10.chonweb.vn/","url":"http://at10.chonweb.vn/","name":"Trang ch\u1ee7"}},{"@type":"ListItem","position":2,"item":{"@type":"WebPage","@id":"http://at10.chonweb.vn/san-pham/","url":"http://at10.chonweb.vn/san-pham/","name":"S\u1ea3n ph\u1ea9m"}},{"@type":"ListItem","position":3,"item":{"@type":"WebPage","@id":"http://at10.chonweb.vn/san-pham/mung-toi/","url":"http://at10.chonweb.vn/san-pham/mung-toi/","name":"M\u00d9NG T\u01a0I"}}]}]}</script>
+	<meta name="twitter:title" content="Bạn đã tìm táo xanh - AT10 FOOD" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://at10.mediawz.com/#website","url":"https://at10.mediawz.com/","name":"AT10 FOOD","description":"","potentialAction":[{"@type":"SearchAction","target":"https://at10.mediawz.com/?s={search_term_string}","query-input":"required name=search_term_string"}],"inLanguage":"vi"},{"@type":["CollectionPage","SearchResultsPage"],"@id":"#webpage","url":"","name":"B\u1ea1n \u0111\u00e3 t\u00ecm t\u00e1o xanh - AT10 FOOD","isPartOf":{"@id":"https://at10.mediawz.com/#website"},"breadcrumb":{"@id":"#breadcrumb"},"inLanguage":"vi"},{"@type":"BreadcrumbList","@id":"#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"item":{"@type":"WebPage","@id":"http://at10.chonweb.vn/","url":"http://at10.chonweb.vn/","name":"Trang ch\u1ee7"}},{"@type":"ListItem","position":2,"item":{"@type":"WebPage","@id":"https://at10.mediawz.com/search/t%C3%A1o+xanh/","url":"https://at10.mediawz.com/search/t%C3%A1o+xanh/","name":"B\u1ea1n \u0111\u00e3 t\u00ecm t\u00e1o xanh"}}]}]}</script>
 	<!-- / Yoast SEO plugin. -->
 
 
@@ -36,7 +29,7 @@
 <link href='https://fonts.gstatic.com' crossorigin rel='preconnect' />
 <link rel="alternate" type="application/rss+xml" title="Dòng thông tin AT10 FOOD &raquo;" href="https://at10.mediawz.com/feed/" />
 <link rel="alternate" type="application/rss+xml" title="Dòng phản hồi AT10 FOOD &raquo;" href="https://at10.mediawz.com/comments/feed/" />
-<link rel="alternate" type="application/rss+xml" title="AT10 FOOD &raquo; MÙNG TƠI Dòng phản hồi" href="https://at10.mediawz.com/san-pham/mung-toi/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Dòng thông tin cho AT10 FOOD &raquo; kết quả tìm kiếm &#8220;táo xanh&#8221;" href="https://at10.mediawz.com/search/t%C3%A1o+xanh/feed/rss2/" />
 		<script type="text/javascript">
 			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/at10.mediawz.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.4.2"}};
 			/*! This file is auto-generated */
@@ -107,14 +100,11 @@ img.emoji {
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://at10.mediawz.com/wp-includes/wlwmanifest.xml" /> 
 <meta name="generator" content="WordPress 5.4.2" />
 <meta name="generator" content="WooCommerce 4.2.2" />
-<link rel='shortlink' href='https://at10.mediawz.com/?p=96' />
-<link rel="alternate" type="application/json+oembed" href="https://at10.mediawz.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fat10.mediawz.com%2Fsan-pham%2Fmung-toi%2F" />
-<link rel="alternate" type="text/xml+oembed" href="https://at10.mediawz.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fat10.mediawz.com%2Fsan-pham%2Fmung-toi%2F&#038;format=xml" />
 	<noscript><style>.woocommerce-product-gallery{ opacity: 1 !important; }</style></noscript>
 	</head>
 
 
-<body data-rsssl=1 class="product-template-default single single-product postid-96 wp-custom-logo theme-halinkat10 woocommerce woocommerce-page woocommerce-no-js has-header-image has-sidebar colors-light">
+<body data-rsssl=1 class="search search-results wp-custom-logo theme-halinkat10 woocommerce-no-js hfeed has-header-image has-sidebar colors-light">
 <script>
 	jQuery(document).ready(function() {
 		jQuery("header .mobile-header .hd-btnMenu > a").click(function(){
@@ -140,7 +130,7 @@ img.emoji {
     </div>
   </div>
   <!-- begin mobile-nav -->
-  <ul id="menu-menu-chinh" class="mobile-nav"><li  id="menu-item-19"  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home mobile-nav__item menu-item-19" ><a class="mobile-nav__link" href="https://at10.mediawz.com/">Trang chủ</a></li><li  id="menu-item-130"  class="menu-item menu-item-type-post_type menu-item-object-page mobile-nav__item menu-item-130" ><a class="mobile-nav__link" href="https://at10.mediawz.com/gioi-thieu/">Giới thiệu</a></li><li  id="menu-item-131"  class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent mobile-nav__item menu-item-131" ><a class="mobile-nav__link" href="https://at10.mediawz.com/san-pham/">Sản phẩm</a></li><li  id="menu-item-133"  class="menu-item menu-item-type-post_type menu-item-object-page mobile-nav__item menu-item-133" ><a class="mobile-nav__link" href="https://at10.mediawz.com/lien-he/">Liên hệ</a></li><li  id="menu-item-134"  class="menu-item menu-item-type-post_type menu-item-object-page mobile-nav__item menu-item-134" ><a class="mobile-nav__link" href="https://at10.mediawz.com/huong-dan-mua-hang/">Hướng dẫn</a></li></ul>  <!-- //mobile-nav --> 
+  <ul id="menu-menu-chinh" class="mobile-nav"><li  id="menu-item-19"  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home mobile-nav__item menu-item-19" ><a class="mobile-nav__link" href="https://at10.mediawz.com/">Trang chủ</a></li><li  id="menu-item-130"  class="menu-item menu-item-type-post_type menu-item-object-page mobile-nav__item menu-item-130" ><a class="mobile-nav__link" href="https://at10.mediawz.com/gioi-thieu/">Giới thiệu</a></li><li  id="menu-item-131"  class="menu-item menu-item-type-post_type menu-item-object-page mobile-nav__item menu-item-131" ><a class="mobile-nav__link" href="https://at10.mediawz.com/san-pham/">Sản phẩm</a></li><li  id="menu-item-133"  class="menu-item menu-item-type-post_type menu-item-object-page mobile-nav__item menu-item-133" ><a class="mobile-nav__link" href="https://at10.mediawz.com/lien-he/">Liên hệ</a></li><li  id="menu-item-134"  class="menu-item menu-item-type-post_type menu-item-object-page mobile-nav__item menu-item-134" ><a class="mobile-nav__link" href="https://at10.mediawz.com/huong-dan-mua-hang/">Hướng dẫn</a></li></ul>  <!-- //mobile-nav --> 
 </div>
 <div class="cart-overlay"></div>
 <div id="page" class="site">
@@ -199,23 +189,25 @@ img.emoji {
             
             <div id="header-left-menu" class="grid__item large--ten-twelfths text-right hd-menu">
             	<div id="header-main-mn" class="hd-navbar">
-                	<ul id="menu-menu-chinh-1" class="no-bullets"><li   class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-19" ><a href="https://at10.mediawz.com/">Trang chủ</a></li><li   class="menu-item menu-item-type-post_type menu-item-object-page menu-item-130" ><a href="https://at10.mediawz.com/gioi-thieu/">Giới thiệu</a></li><li   class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-131" ><a href="https://at10.mediawz.com/san-pham/">Sản phẩm</a></li><li   class="menu-item menu-item-type-post_type menu-item-object-page menu-item-133" ><a href="https://at10.mediawz.com/lien-he/">Liên hệ</a></li><li   class="menu-item menu-item-type-post_type menu-item-object-page menu-item-134" ><a href="https://at10.mediawz.com/huong-dan-mua-hang/">Hướng dẫn</a></li></ul>                </div>
+                	<ul id="menu-menu-chinh-1" class="no-bullets"><li   class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-19" ><a href="/">Trang chủ</a></li><li   class="menu-item menu-item-type-post_type menu-item-object-page menu-item-130" ><a href="https://at10.mediawz.com/gioi-thieu/">Giới thiệu</a></li><li   class="menu-item menu-item-type-post_type menu-item-object-page menu-item-131" ><a href="./index/#products">Sản phẩm</a></li><li   class="menu-item menu-item-type-post_type menu-item-object-page menu-item-133" ><a href="https://at10.mediawz.com/lien-he/">Liên hệ</a></li><li   class="menu-item menu-item-type-post_type menu-item-object-page menu-item-134" ><a href="https://at10.mediawz.com/huong-dan-mua-hang/">Hướng dẫn</a></li></ul>                </div>
                 <!--#header-main-mn-->
                 
                 <div id="hc-search-wrapper" class="hc-search-wrapper">
                 	<a href="javascript:void(0)"><svg class="svg-inline--fa fa-search fa-w-16" aria-hidden="true" data-prefix="fa" data-icon="search" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""><path fill="currentColor" d="M505 442.7L405.3 343c-4.5-4.5-10.6-7-17-7H372c27.6-35.3 44-79.7 44-128C416 93.1 322.9 0 208 0S0 93.1 0 208s93.1 208 208 208c48.3 0 92.7-16.4 128-44v16.3c0 6.4 2.5 12.5 7 17l99.7 99.7c9.4 9.4 24.6 9.4 33.9 0l28.3-28.3c9.4-9.4 9.4-24.6.1-34zM208 336c-70.7 0-128-57.2-128-128 0-70.7 57.2-128 128-128 70.7 0 128 57.2 128 128 0 70.7-57.2 128-128 128z"></path></svg><!-- <i class="fa fa-search" aria-hidden="true"></i> --></a>
                     <div class="search-bar-header">
                     	<div class="search-form-wrapper">
-                        	<form id="searchauto" method="get" class="searchform-categoris ultimate-search" action="https://at10.mediawz.com/" >
+                        	<form id="searchauto" method="get" class="searchform-categoris ultimate-search" action="{{ route('tfoods.search') }}">
                                 <div class="wpo-search">
                                     <div class="wpo-search-inner">
                                         <div class="input-group">
                                             <input type="hidden" name="post-type" value="product">
-                                            <input type="text" id="searchtext" class="form-control input-search" placeholder="Search &hellip;" value="" name="s" />
+                                            <input type="text" id="searchtext" class="form-control input-search" placeholder="Tìm kiếm &hellip;" value="" name="s" />
                                             <span class="input-group-btn">
-                                                <button type="submit" id="searchsubmit"><svg class="svg-inline--fa fa-search fa-w-16" aria-hidden="true" data-prefix="fa" data-icon="search" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg="">
-                                            <path fill="currentColor" d="M505 442.7L405.3 343c-4.5-4.5-10.6-7-17-7H372c27.6-35.3 44-79.7 44-128C416 93.1 322.9 0 208 0S0 93.1 0 208s93.1 208 208 208c48.3 0 92.7-16.4 128-44v16.3c0 6.4 2.5 12.5 7 17l99.7 99.7c9.4 9.4 24.6 9.4 33.9 0l28.3-28.3c9.4-9.4 9.4-24.6.1-34zM208 336c-70.7 0-128-57.2-128-128 0-70.7 57.2-128 128-128 70.7 0 128 57.2 128 128 0 70.7-57.2 128-128 128z"></path>
-                                                </svg><!-- <i class="fa fa-search" aria-hidden="true"></i> --></button>
+                                                <button type="submit" id="searchsubmit">
+                                                    <svg class="svg-inline--fa fa-search fa-w-16" aria-hidden="true" data-prefix="fa" data-icon="search" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg="">
+                                                        <path fill="currentColor" d="M505 442.7L405.3 343c-4.5-4.5-10.6-7-17-7H372c27.6-35.3 44-79.7 44-128C416 93.1 322.9 0 208 0S0 93.1 0 208s93.1 208 208 208c48.3 0 92.7-16.4 128-44v16.3c0 6.4 2.5 12.5 7 17l99.7 99.7c9.4 9.4 24.6 9.4 33.9 0l28.3-28.3c9.4-9.4 9.4-24.6.1-34zM208 336c-70.7 0-128-57.2-128-128 0-70.7 57.2-128 128-128 70.7 0 128 57.2 128 128 0 70.7-57.2 128-128 128z"></path>
+                                                    </svg>
+                                                </button>
                                             </span> 
                                         </div>
                                     </div>
@@ -258,355 +250,116 @@ img.emoji {
 	<div class="breadcrumb-content">
 		<div class="wrapper">
 			<div class="inner text-center">
-				<div class="breadcrumb-big"><h2>MÙNG TƠI</h2></div>
+				<div class="breadcrumb-big"><h2>NHO XANH</h2></div>
 				<div class="breadcrumb-small">
-                	<p id="breadcrumbs"><span><span><a href="http://at10.chonweb.vn/">Trang chủ</a> » <span><a href="http://at10.chonweb.vn/san-pham/">Sản phẩm</a> » <span class="breadcrumb_last" aria-current="page">MÙNG TƠI</span></span></span></span></p>				</div>
+                	<p id="breadcrumbs"><span><span><a href="http://at10.chonweb.vn/">Trang chủ</a> » <span class="breadcrumb_last" aria-current="page">Bạn đã tìm táo xanh</span></span></span></p>				</div>
 			</div>
 		</div>
 	</div>
-</section>    
-	<div id="PageContainer" class="is-moved-by-drawer">
-	<section id="product-wrapper">
-        <div class="wrapper">
-            <div class="inner">
-				<div id="primary" class="content-area"><main id="main" class="site-main" role="main"><nav class="woocommerce-breadcrumb"><a href="https://at10.mediawz.com">Trang chủ</a>&nbsp;&#47;&nbsp;<a href="https://at10.mediawz.com/san-pham/">Sản phẩm</a>&nbsp;&#47;&nbsp;<a href="https://at10.mediawz.com/danh-muc-san-pham/rau-huu-co/">Rau hữu cơ</a>&nbsp;&#47;&nbsp;MÙNG TƠI</nav><div class="woocommerce-notices-wrapper"></div><div itemscope="" itemtype="http://schema.org/Product">
-    <div id="product-96" class="product type-product post-96 status-publish first instock product_cat-hoa-qua product_cat-rau-huu-co product_cat-thuc-pham-kho has-post-thumbnail sale shipping-taxable purchasable product-type-simple">
-    	<div class="grid product-single">
-        	<div class="grid__item large--five-twelfths medium--one-whole small--one-whole">
-				
-	<span class="onsale">Giảm giá!</span>
-	
-<div class="wpgs wpgs--with-images images">
+</section>  
 
-		<div class="wpgs-for"><div class="woocommerce-product-gallery__image single-product-main-image"><a class="venobox"  title="mungtoi_large" data-gall="wpgs-lightbox" href="https://at10.mediawz.com/wp-content/uploads/2019/06/mungtoi_large.jpg" ><img width="480" height="480" src="https://at10.mediawz.com/wp-content/uploads/2019/06/mungtoi_large.jpg" class="attachment-shop_single size-shop_single wp-post-image" alt="" srcset="https://at10.mediawz.com/wp-content/uploads/2019/06/mungtoi_large.jpg 480w, https://at10.mediawz.com/wp-content/uploads/2019/06/mungtoi_large-300x300.jpg 300w, https://at10.mediawz.com/wp-content/uploads/2019/06/mungtoi_large-100x100.jpg 100w, https://at10.mediawz.com/wp-content/uploads/2019/06/mungtoi_large-150x150.jpg 150w, https://at10.mediawz.com/wp-content/uploads/2019/06/mungtoi_large-260x260.jpg 260w" sizes="100vw" /></a></div> <a class="venobox" data-gall="wpgs-lightbox" title="13_large" href="https://at10.mediawz.com/wp-content/uploads/2019/06/13_large.jpg" ><img width="480" height="480" src="https://at10.mediawz.com/wp-content/uploads/2019/06/13_large.jpg" class="attachment-shop_single size-shop_single" alt="" srcset="https://at10.mediawz.com/wp-content/uploads/2019/06/13_large.jpg 480w, https://at10.mediawz.com/wp-content/uploads/2019/06/13_large-300x300.jpg 300w, https://at10.mediawz.com/wp-content/uploads/2019/06/13_large-100x100.jpg 100w, https://at10.mediawz.com/wp-content/uploads/2019/06/13_large-150x150.jpg 150w, https://at10.mediawz.com/wp-content/uploads/2019/06/13_large-260x260.jpg 260w" sizes="100vw" /></a><a class="venobox" data-gall="wpgs-lightbox" title="17_f6c9824688c548a0a2a1c953912bb97a_large" href="https://at10.mediawz.com/wp-content/uploads/2019/06/17_f6c9824688c548a0a2a1c953912bb97a_large.jpg" ><img width="480" height="480" src="https://at10.mediawz.com/wp-content/uploads/2019/06/17_f6c9824688c548a0a2a1c953912bb97a_large.jpg" class="attachment-shop_single size-shop_single" alt="" srcset="https://at10.mediawz.com/wp-content/uploads/2019/06/17_f6c9824688c548a0a2a1c953912bb97a_large.jpg 480w, https://at10.mediawz.com/wp-content/uploads/2019/06/17_f6c9824688c548a0a2a1c953912bb97a_large-300x300.jpg 300w, https://at10.mediawz.com/wp-content/uploads/2019/06/17_f6c9824688c548a0a2a1c953912bb97a_large-100x100.jpg 100w, https://at10.mediawz.com/wp-content/uploads/2019/06/17_f6c9824688c548a0a2a1c953912bb97a_large-150x150.jpg 150w, https://at10.mediawz.com/wp-content/uploads/2019/06/17_f6c9824688c548a0a2a1c953912bb97a_large-260x260.jpg 260w" sizes="100vw" /></a><a class="venobox" data-gall="wpgs-lightbox" title="bidodai_large" href="https://at10.mediawz.com/wp-content/uploads/2019/06/bidodai_large.jpg" ><img width="480" height="480" src="https://at10.mediawz.com/wp-content/uploads/2019/06/bidodai_large.jpg" class="attachment-shop_single size-shop_single" alt="" srcset="https://at10.mediawz.com/wp-content/uploads/2019/06/bidodai_large.jpg 480w, https://at10.mediawz.com/wp-content/uploads/2019/06/bidodai_large-300x300.jpg 300w, https://at10.mediawz.com/wp-content/uploads/2019/06/bidodai_large-100x100.jpg 100w, https://at10.mediawz.com/wp-content/uploads/2019/06/bidodai_large-150x150.jpg 150w, https://at10.mediawz.com/wp-content/uploads/2019/06/bidodai_large-260x260.jpg 260w" sizes="100vw" /></a><a class="venobox" data-gall="wpgs-lightbox" title="cachua_large" href="https://at10.mediawz.com/wp-content/uploads/2019/06/cachua_large.jpg" ><img width="480" height="480" src="https://at10.mediawz.com/wp-content/uploads/2019/06/cachua_large.jpg" class="attachment-shop_single size-shop_single" alt="" srcset="https://at10.mediawz.com/wp-content/uploads/2019/06/cachua_large.jpg 480w, https://at10.mediawz.com/wp-content/uploads/2019/06/cachua_large-300x300.jpg 300w, https://at10.mediawz.com/wp-content/uploads/2019/06/cachua_large-100x100.jpg 100w, https://at10.mediawz.com/wp-content/uploads/2019/06/cachua_large-150x150.jpg 150w, https://at10.mediawz.com/wp-content/uploads/2019/06/cachua_large-260x260.jpg 260w" sizes="100vw" /></a></div><div class="wpgs-nav"><div><img width="100" height="100" src="https://at10.mediawz.com/wp-content/uploads/2019/06/mungtoi_large-100x100.jpg" class="attachment-shop_thumbnail size-shop_thumbnail" alt="" srcset="https://at10.mediawz.com/wp-content/uploads/2019/06/mungtoi_large-100x100.jpg 100w, https://at10.mediawz.com/wp-content/uploads/2019/06/mungtoi_large-300x300.jpg 300w, https://at10.mediawz.com/wp-content/uploads/2019/06/mungtoi_large-150x150.jpg 150w, https://at10.mediawz.com/wp-content/uploads/2019/06/mungtoi_large-260x260.jpg 260w, https://at10.mediawz.com/wp-content/uploads/2019/06/mungtoi_large.jpg 480w" sizes="100vw" /></div><div><img width="100" height="100" src="https://at10.mediawz.com/wp-content/uploads/2019/06/13_large-100x100.jpg" class="attachment-100x100 size-100x100" alt="" srcset="https://at10.mediawz.com/wp-content/uploads/2019/06/13_large-100x100.jpg 100w, https://at10.mediawz.com/wp-content/uploads/2019/06/13_large-300x300.jpg 300w, https://at10.mediawz.com/wp-content/uploads/2019/06/13_large-150x150.jpg 150w, https://at10.mediawz.com/wp-content/uploads/2019/06/13_large-260x260.jpg 260w, https://at10.mediawz.com/wp-content/uploads/2019/06/13_large.jpg 480w" sizes="100vw" /></div><div><img width="100" height="100" src="https://at10.mediawz.com/wp-content/uploads/2019/06/17_f6c9824688c548a0a2a1c953912bb97a_large-100x100.jpg" class="attachment-100x100 size-100x100" alt="" srcset="https://at10.mediawz.com/wp-content/uploads/2019/06/17_f6c9824688c548a0a2a1c953912bb97a_large-100x100.jpg 100w, https://at10.mediawz.com/wp-content/uploads/2019/06/17_f6c9824688c548a0a2a1c953912bb97a_large-300x300.jpg 300w, https://at10.mediawz.com/wp-content/uploads/2019/06/17_f6c9824688c548a0a2a1c953912bb97a_large-150x150.jpg 150w, https://at10.mediawz.com/wp-content/uploads/2019/06/17_f6c9824688c548a0a2a1c953912bb97a_large-260x260.jpg 260w, https://at10.mediawz.com/wp-content/uploads/2019/06/17_f6c9824688c548a0a2a1c953912bb97a_large.jpg 480w" sizes="100vw" /></div><div><img width="100" height="100" src="https://at10.mediawz.com/wp-content/uploads/2019/06/bidodai_large-100x100.jpg" class="attachment-100x100 size-100x100" alt="" srcset="https://at10.mediawz.com/wp-content/uploads/2019/06/bidodai_large-100x100.jpg 100w, https://at10.mediawz.com/wp-content/uploads/2019/06/bidodai_large-300x300.jpg 300w, https://at10.mediawz.com/wp-content/uploads/2019/06/bidodai_large-150x150.jpg 150w, https://at10.mediawz.com/wp-content/uploads/2019/06/bidodai_large-260x260.jpg 260w, https://at10.mediawz.com/wp-content/uploads/2019/06/bidodai_large.jpg 480w" sizes="100vw" /></div><div><img width="100" height="100" src="https://at10.mediawz.com/wp-content/uploads/2019/06/cachua_large-100x100.jpg" class="attachment-100x100 size-100x100" alt="" srcset="https://at10.mediawz.com/wp-content/uploads/2019/06/cachua_large-100x100.jpg 100w, https://at10.mediawz.com/wp-content/uploads/2019/06/cachua_large-300x300.jpg 300w, https://at10.mediawz.com/wp-content/uploads/2019/06/cachua_large-150x150.jpg 150w, https://at10.mediawz.com/wp-content/uploads/2019/06/cachua_large-260x260.jpg 260w, https://at10.mediawz.com/wp-content/uploads/2019/06/cachua_large.jpg 480w" sizes="100vw" /></div></div>
-</div>
+    <div class="section-content">
+        <h1>Kết quả tìm kiếm cho "{{ $query }}"</h1>
 
-			            </div>
-            <div class="grid__item large--seven-twelfths medium--one-whole small--one-whole">
-                <div class="product-content">
-                    <div class="pro-content-head clearfix">
-	<h1 class="product_title-entry-title">MÙNG TƠI</h1></div><div class="pro-price clearfix">
-	         <span class="current-price"><span class="woocommerce-Price-amount amount">12,000<span class="woocommerce-Price-currencySymbol">&#8363;</span></span></span>
-        <span class="original-price"><s><span class="woocommerce-Price-amount amount">15,000<span class="woocommerce-Price-currencySymbol">&#8363;</span></span></s></span>
-    </div><div class="woocommerce-product-details__short-description">
-	<p>Rau cải bắp hữu cơ (Brassica oleracea nhóm Capitata) là loại rau chủ lực trong họ Cải (còn gọi là họ Thập tự &#8211; Brassicaceae/Cruciferae),có xuất xứ từ vùng Địa Trung Hải. Nó là cây thân thảo, sống hai năm, và là một thực vật có hoa thuộc nhóm hai lá mầm với các lá tạo thành một cụm đặc hình gần như hình cầu.Là một loại rau hữu cơ rất dễ nhận biết,khó có thể nhầm lẫn</p>
-</div>
-
-<div id="fb-root"></div>
-<script async defer crossorigin="anonymous" src="https://connect.facebook.net/vi_VN/sdk.js#xfbml=1&version=v3.3"></script>
-
-<div class="product-size-hotline" style="margin-bottom:10px;">
-	<div class="product-hotline" style="display:inline-block;">
-		<svg class="svg-inline--fa fa-phone fa-w-16" aria-hidden="true" data-prefix="fa" data-icon="phone" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""><path fill="currentColor" d="M493.397 24.615l-104-23.997c-11.314-2.611-22.879 3.252-27.456 13.931l-48 111.997a24 24 0 0 0 6.862 28.029l60.617 49.596c-35.973 76.675-98.938 140.508-177.249 177.248l-49.596-60.616a24 24 0 0 0-28.029-6.862l-111.997 48C3.873 366.516-1.994 378.08.618 389.397l23.997 104C27.109 504.204 36.748 512 48 512c256.087 0 464-207.532 464-464 0-11.176-7.714-20.873-18.603-23.385z"></path></svg><!-- <i class="fa fa-phone" aria-hidden="true"></i> --> Hotline hỗ trợ 24/7: <a href="tel:0123.456.789"> 0123.456.789</a>
-    </div><span> | </span><div class="social-network-actions text-left">
-    	<div class="fb-like" data-href="https://at10.mediawz.com/san-pham/mung-toi/" data-width="" data-layout="button_count" data-action="like" data-size="small" data-show-faces="true" data-share="true"></div>
-    </div>
-</div>
-
-	
-	<form class="cart" action="https://at10.mediawz.com/san-pham/mung-toi/" method="post" enctype='multipart/form-data'>
-		
-			<div class="quantity">
-				<label class="screen-reader-text" for="quantity_6649d59a1ef8b">MÙNG TƠI số lượng</label>
-		<input
-			type="number"
-			id="quantity_6649d59a1ef8b"
-			class="input-text qty text"
-			step="1"
-			min="1"
-			max=""
-			name="quantity"
-			value="1"
-			title="SL"
-			size="4"
-			placeholder=""
-			inputmode="numeric" />
-			</div>
-	
-		<button type="submit" name="add-to-cart" value="96" class="single_add_to_cart_button button alt">Mua hàng</button>
-
-			</form>
-
-	
-<div class="product_meta">
-
-	
-	
-		<span class="sku_wrapper">Mã: <span class="sku">MSP-07</span></span>
-
-	
-	<span class="posted_in">Danh mục: <a href="https://at10.mediawz.com/danh-muc-san-pham/hoa-qua/" rel="tag">Hoa quả</a>, <a href="https://at10.mediawz.com/danh-muc-san-pham/rau-huu-co/" rel="tag">Rau hữu cơ</a>, <a href="https://at10.mediawz.com/danh-muc-san-pham/thuc-pham-kho/" rel="tag">Thực phẩm khô</a></span>
-	
-	
-</div>
-                </div>
-            </div>
-        </div>
-    
-        <div class="product-description-wrapper">
-	<div class="woocommerce-tabs wc-tabs-wrapper">
-    	<div class="tab clearfix">
-        	        					<button class="pro-tablinks active" onclick="openProTabs(event, 'protab-description')" id="defaultOpenProTabs"><span>Mô tả</span></button>
-                            				<button class="pro-tablinks " onclick="openProTabs(event, 'protab-xuat_xu_tab')" ><span>Xuất xứ</span></button>
-                            				<button class="pro-tablinks " onclick="openProTabs(event, 'protab-tieu_chuan_tab')" ><span>Tiêu chuẩn</span></button>
-                            				<button class="pro-tablinks " onclick="openProTabs(event, 'protab-reviews')" ><span>Đánh giá (0)</span></button>
-                                    </div>
-                    
-					<div id="protab-description" class="pro-tabcontent" >
-				
-	<h2>Mô tả</h2>
-
-<p>NHỮNG CÔNG DỤNG CỰC KỲ QUÝ CỦA RAU BẮP CẢI</p>
-<p>Vào mùa đông, loại rau xanh được các gia đình hay sử dụng nhất, có lẽ là bắp cải. Bắp cải không những là một loại rau bổ dưỡng mà còn là vị thuốc quý được sử dụng nhiều trong dân gian.</p>
-<p>Công dụng chữa bệnh của rau cải bắp hữu cơ:</p>
-<p>+Bắp cải là loại thuốc trị giun tốt: Dùng đắp ngoài để tẩy uế và làm liền sẹo các vết thương, mụn nhọt, các vết thương độc, đồng thời là loại thuốc trừ sâu bọ đốt (ong, ong vò vẽ, nhện&#8230;).</p>
-<p>+Bắp cải còn là loại thuốc dịu đau trong bệnh thấp khớp, thống phong, đau dây thần kinh hông (lấy các lá bắp cải rồi dùng bàn là ủi cho mềm, sau đó đắp lên các phần bị đau). Bắp cải làm sạch đường hô hấp bằng cách hoặc dùng đắp (trị viêm họng khản tiếng) hoặc uống trong (ho, viêm sưng phổi).</p>
-<p>+Bắp cải cũng là thuốc chống hoại huyết, trị lỵ và cung cấp cho cơ thể một yếu tố quan trọng là lưu huỳnh (S). Nước bắp cải dùng lọc máu.</p>
-<p>Cuối cùng, bắp cải là loại thuốc mạnh để chống kích thích thần kinh và chứng mất ngủ. Những người hay lo âu, các thí sinh đi thi, các người bị suy nhược thần kinh, những người mệt mỏi liên miên nên dùng bắp cải thường xuyên.</p>
-<p>NHỮNG CÔNG DỤNG CỰC KỲ QUÝ CỦA RAU BẮP CẢI</p>
-<p>Vào mùa đông, loại rau xanh được các gia đình hay sử dụng nhất, có lẽ là bắp cải. Bắp cải không những là một loại rau bổ dưỡng mà còn là vị thuốc quý được sử dụng nhiều trong dân gian.</p>
-<p>Công dụng chữa bệnh của rau cải bắp hữu cơ:</p>
-<p>+Bắp cải là loại thuốc trị giun tốt: Dùng đắp ngoài để tẩy uế và làm liền sẹo các vết thương, mụn nhọt, các vết thương độc, đồng thời là loại thuốc trừ sâu bọ đốt (ong, ong vò vẽ, nhện&#8230;).</p>
-<p>+Bắp cải còn là loại thuốc dịu đau trong bệnh thấp khớp, thống phong, đau dây thần kinh hông (lấy các lá bắp cải rồi dùng bàn là ủi cho mềm, sau đó đắp lên các phần bị đau). Bắp cải làm sạch đường hô hấp bằng cách hoặc dùng đắp (trị viêm họng khản tiếng) hoặc uống trong (ho, viêm sưng phổi).</p>
-<p>+Bắp cải cũng là thuốc chống hoại huyết, trị lỵ và cung cấp cho cơ thể một yếu tố quan trọng là lưu huỳnh (S). Nước bắp cải dùng lọc máu.</p>
-<p>Cuối cùng, bắp cải là loại thuốc mạnh để chống kích thích thần kinh và chứng mất ngủ. Những người hay lo âu, các thí sinh đi thi, các người bị suy nhược thần kinh, những người mệt mỏi liên miên nên dùng bắp cải thường xuyên.</p>
-                			</div>
-					<div id="protab-xuat_xu_tab" class="pro-tabcontent" style="display: none;">
-				<h2>Xuất xứ</h2><p>NHỮNG CÔNG DỤNG CỰC KỲ QUÝ CỦA RAU BẮP CẢI</p>
-<p>Vào mùa đông, loại rau xanh được các gia đình hay sử dụng nhất, có lẽ là bắp cải. Bắp cải không những là một loại rau bổ dưỡng mà còn là vị thuốc quý được sử dụng nhiều trong dân gian.</p>
-<p>Công dụng chữa bệnh của rau cải bắp hữu cơ:</p>
-<p>+Bắp cải là loại thuốc trị giun tốt: Dùng đắp ngoài để tẩy uế và làm liền sẹo các vết thương, mụn nhọt, các vết thương độc, đồng thời là loại thuốc trừ sâu bọ đốt (ong, ong vò vẽ, nhện&#8230;).</p>
-<p>+Bắp cải còn là loại thuốc dịu đau trong bệnh thấp khớp, thống phong, đau dây thần kinh hông (lấy các lá bắp cải rồi dùng bàn là ủi cho mềm, sau đó đắp lên các phần bị đau). Bắp cải làm sạch đường hô hấp bằng cách hoặc dùng đắp (trị viêm họng khản tiếng) hoặc uống trong (ho, viêm sưng phổi).</p>
-<p>+Bắp cải cũng là thuốc chống hoại huyết, trị lỵ và cung cấp cho cơ thể một yếu tố quan trọng là lưu huỳnh (S). Nước bắp cải dùng lọc máu.</p>
-<p>Cuối cùng, bắp cải là loại thuốc mạnh để chống kích thích thần kinh và chứng mất ngủ. Những người hay lo âu, các thí sinh đi thi, các người bị suy nhược thần kinh, những người mệt mỏi liên miên nên dùng bắp cải thường xuyên.</p>
-<p>NHỮNG CÔNG DỤNG CỰC KỲ QUÝ CỦA RAU BẮP CẢI</p>
-<p>Vào mùa đông, loại rau xanh được các gia đình hay sử dụng nhất, có lẽ là bắp cải. Bắp cải không những là một loại rau bổ dưỡng mà còn là vị thuốc quý được sử dụng nhiều trong dân gian.</p>
-<p>Công dụng chữa bệnh của rau cải bắp hữu cơ:</p>
-<p>+Bắp cải là loại thuốc trị giun tốt: Dùng đắp ngoài để tẩy uế và làm liền sẹo các vết thương, mụn nhọt, các vết thương độc, đồng thời là loại thuốc trừ sâu bọ đốt (ong, ong vò vẽ, nhện&#8230;).</p>
-<p>+Bắp cải còn là loại thuốc dịu đau trong bệnh thấp khớp, thống phong, đau dây thần kinh hông (lấy các lá bắp cải rồi dùng bàn là ủi cho mềm, sau đó đắp lên các phần bị đau). Bắp cải làm sạch đường hô hấp bằng cách hoặc dùng đắp (trị viêm họng khản tiếng) hoặc uống trong (ho, viêm sưng phổi).</p>
-<p>+Bắp cải cũng là thuốc chống hoại huyết, trị lỵ và cung cấp cho cơ thể một yếu tố quan trọng là lưu huỳnh (S). Nước bắp cải dùng lọc máu.</p>
-<p>Cuối cùng, bắp cải là loại thuốc mạnh để chống kích thích thần kinh và chứng mất ngủ. Những người hay lo âu, các thí sinh đi thi, các người bị suy nhược thần kinh, những người mệt mỏi liên miên nên dùng bắp cải thường xuyên.</p>
-                			</div>
-					<div id="protab-tieu_chuan_tab" class="pro-tabcontent" style="display: none;">
-				<h2>Tiêu chuẩn</h2><p>NHỮNG CÔNG DỤNG CỰC KỲ QUÝ CỦA RAU BẮP CẢI</p>
-<p>Vào mùa đông, loại rau xanh được các gia đình hay sử dụng nhất, có lẽ là bắp cải. Bắp cải không những là một loại rau bổ dưỡng mà còn là vị thuốc quý được sử dụng nhiều trong dân gian.</p>
-<p>Công dụng chữa bệnh của rau cải bắp hữu cơ:</p>
-<p>+Bắp cải là loại thuốc trị giun tốt: Dùng đắp ngoài để tẩy uế và làm liền sẹo các vết thương, mụn nhọt, các vết thương độc, đồng thời là loại thuốc trừ sâu bọ đốt (ong, ong vò vẽ, nhện&#8230;).</p>
-<p>+Bắp cải còn là loại thuốc dịu đau trong bệnh thấp khớp, thống phong, đau dây thần kinh hông (lấy các lá bắp cải rồi dùng bàn là ủi cho mềm, sau đó đắp lên các phần bị đau). Bắp cải làm sạch đường hô hấp bằng cách hoặc dùng đắp (trị viêm họng khản tiếng) hoặc uống trong (ho, viêm sưng phổi).</p>
-<p>+Bắp cải cũng là thuốc chống hoại huyết, trị lỵ và cung cấp cho cơ thể một yếu tố quan trọng là lưu huỳnh (S). Nước bắp cải dùng lọc máu.</p>
-<p>Cuối cùng, bắp cải là loại thuốc mạnh để chống kích thích thần kinh và chứng mất ngủ. Những người hay lo âu, các thí sinh đi thi, các người bị suy nhược thần kinh, những người mệt mỏi liên miên nên dùng bắp cải thường xuyên.</p>
-<p>NHỮNG CÔNG DỤNG CỰC KỲ QUÝ CỦA RAU BẮP CẢI</p>
-<p>Vào mùa đông, loại rau xanh được các gia đình hay sử dụng nhất, có lẽ là bắp cải. Bắp cải không những là một loại rau bổ dưỡng mà còn là vị thuốc quý được sử dụng nhiều trong dân gian.</p>
-<p>Công dụng chữa bệnh của rau cải bắp hữu cơ:</p>
-<p>+Bắp cải là loại thuốc trị giun tốt: Dùng đắp ngoài để tẩy uế và làm liền sẹo các vết thương, mụn nhọt, các vết thương độc, đồng thời là loại thuốc trừ sâu bọ đốt (ong, ong vò vẽ, nhện&#8230;).</p>
-<p>+Bắp cải còn là loại thuốc dịu đau trong bệnh thấp khớp, thống phong, đau dây thần kinh hông (lấy các lá bắp cải rồi dùng bàn là ủi cho mềm, sau đó đắp lên các phần bị đau). Bắp cải làm sạch đường hô hấp bằng cách hoặc dùng đắp (trị viêm họng khản tiếng) hoặc uống trong (ho, viêm sưng phổi).</p>
-<p>+Bắp cải cũng là thuốc chống hoại huyết, trị lỵ và cung cấp cho cơ thể một yếu tố quan trọng là lưu huỳnh (S). Nước bắp cải dùng lọc máu.</p>
-<p>Cuối cùng, bắp cải là loại thuốc mạnh để chống kích thích thần kinh và chứng mất ngủ. Những người hay lo âu, các thí sinh đi thi, các người bị suy nhược thần kinh, những người mệt mỏi liên miên nên dùng bắp cải thường xuyên.</p>
-                			</div>
-					<div id="protab-reviews" class="pro-tabcontent" style="display: none;">
-				<div id="reviews" class="woocommerce-Reviews">
-	<div id="comments">
-		<h2 class="woocommerce-Reviews-title">
-			Đánh giá		</h2>
-
-					<p class="woocommerce-noreviews">Chưa có đánh giá nào.</p>
-			</div>
-
-			<div id="review_form_wrapper">
-			<div id="review_form">
-					<div id="respond" class="comment-respond">
-		<span id="reply-title" class="comment-reply-title">Hãy là người đầu tiên nhận xét &ldquo;MÙNG TƠI&rdquo; <small><a rel="nofollow" id="cancel-comment-reply-link" href="/san-pham/mung-toi/#respond" style="display:none;">Hủy</a></small></span><form action="https://at10.mediawz.com/wp-comments-post.php" method="post" id="commentform" class="comment-form" novalidate><p class="comment-notes"><span id="email-notes">Email của bạn sẽ không được hiển thị công khai.</span> Các trường bắt buộc được đánh dấu <span class="required">*</span></p><div class="comment-form-rating"><label for="rating">Đánh giá của bạn</label><select name="rating" id="rating" required>
-						<option value="">Xếp hạng&hellip;</option>
-						<option value="5">Rất tốt</option>
-						<option value="4">Tốt</option>
-						<option value="3">Trung bình</option>
-						<option value="2">Không tệ</option>
-						<option value="1">Rất tệ</option>
-					</select></div><p class="comment-form-comment"><label for="comment">Nhận xét của bạn&nbsp;<span class="required">*</span></label><textarea id="comment" name="comment" cols="45" rows="8" required></textarea></p><p class="comment-form-author"><label for="author">Tên&nbsp;<span class="required">*</span></label><input id="author" name="author" type="text" value="" size="30" required /></p>
-<p class="comment-form-email"><label for="email">Email&nbsp;<span class="required">*</span></label><input id="email" name="email" type="email" value="" size="30" required /></p>
-<p class="form-submit"><input name="submit" type="submit" id="submit" class="submit" value="Gửi đi" /> <input type='hidden' name='comment_post_ID' value='96' id='comment_post_ID' />
-<input type='hidden' name='comment_parent' id='comment_parent' value='0' />
-</p></form>	</div><!-- #respond -->
-				</div>
-		</div>
-	
-	<div class="clear"></div>
-</div>
-                			</div>
-			</div>
-</div>
-<script>
-	function openProTabs(evt, cityName) {
-		var i, pro_tabcontent, pro_tablinks;
-		pro_tabcontent = document.getElementsByClassName("pro-tabcontent");
-		for (i = 0; i < pro_tabcontent.length; i++) {
-			pro_tabcontent[i].style.display = "none";
-		}
-		pro_tablinks = document.getElementsByClassName("pro-tablinks");
-		for (i = 0; i < pro_tablinks.length; i++) {
-			pro_tablinks[i].className = pro_tablinks[i].className.replace(" active", "");
-		}
-		document.getElementById(cityName).style.display = "block";
-		evt.currentTarget.className += " active";
-	}
-	document.getElementById("defaultOpenProTabs").click();
-</script>
-
-	<section id="related-products" class="related products">
-        <div class="home-section-head clearfix">
-        	<h2>Sản phẩm tương tự</h2>
-        </div>
-		<div class="home-section-body">
-			<div class="grid-uniform md-mg-left-10 products columns-4">
-                                    <div class="md-pd-left10 grid__item large--one-quarter medium--one-third small--one-half">
-	<div class="product-item">
-        <div class="product-img">
-            <a href="https://at10.mediawz.com/san-pham/ca-chua/">
-               <img width="260" height="260" src="https://at10.mediawz.com/wp-content/uploads/2019/06/cachua_large-260x260.jpg" class="attachment-thumb_260x260 size-thumb_260x260 wp-post-image" alt="Cà chua" srcset="https://at10.mediawz.com/wp-content/uploads/2019/06/cachua_large-260x260.jpg 260w, https://at10.mediawz.com/wp-content/uploads/2019/06/cachua_large-300x300.jpg 300w, https://at10.mediawz.com/wp-content/uploads/2019/06/cachua_large-100x100.jpg 100w, https://at10.mediawz.com/wp-content/uploads/2019/06/cachua_large-150x150.jpg 150w, https://at10.mediawz.com/wp-content/uploads/2019/06/cachua_large.jpg 480w" sizes="100vw" />            </a>
-        </div>
-        <div class="product-info">
-            <div class="product-title">
-            	<a href="https://at10.mediawz.com/san-pham/ca-chua/">Cà chua</a>
-            </div>
-                        <div class="product-price clearfix">
-            	                	<span class="current-price"><span class="woocommerce-Price-amount amount">15,000<span class="woocommerce-Price-currencySymbol">&#8363;</span></span></span>
-                			</div>
-            <div class="product-actions text-center clearfix">
-                <a href="https://at10.mediawz.com/san-pham/ca-chua/">
-                	<button type="button" class="btn-buyNow buy-now medium--hide small--hide" data-id="1026777806">Chi tiết</button>
-                </a>
-            </div>
-        </div>
-    </div>
-</div>
-                                    <div class="md-pd-left10 grid__item large--one-quarter medium--one-third small--one-half">
-	<div class="product-item">
-        <div class="product-img">
-            <a href="https://at10.mediawz.com/san-pham/cu-den/">
-               <img width="260" height="260" src="https://at10.mediawz.com/wp-content/uploads/2019/06/hat_giong_cu_den_large-260x260.jpg" class="attachment-thumb_260x260 size-thumb_260x260 wp-post-image" alt="CỦ DỀN" srcset="https://at10.mediawz.com/wp-content/uploads/2019/06/hat_giong_cu_den_large-260x260.jpg 260w, https://at10.mediawz.com/wp-content/uploads/2019/06/hat_giong_cu_den_large-300x300.jpg 300w, https://at10.mediawz.com/wp-content/uploads/2019/06/hat_giong_cu_den_large-100x100.jpg 100w, https://at10.mediawz.com/wp-content/uploads/2019/06/hat_giong_cu_den_large-150x150.jpg 150w, https://at10.mediawz.com/wp-content/uploads/2019/06/hat_giong_cu_den_large.jpg 480w" sizes="100vw" />            </a>
-        </div>
-        <div class="product-info">
-            <div class="product-title">
-            	<a href="https://at10.mediawz.com/san-pham/cu-den/">CỦ DỀN</a>
-            </div>
-                        <div class="product-price clearfix">
-            	                	<span class="current-price"><span class="woocommerce-Price-amount amount">12,000<span class="woocommerce-Price-currencySymbol">&#8363;</span></span></span>
-                	<span class="original-price"><s><span class="woocommerce-Price-amount amount">15,000<span class="woocommerce-Price-currencySymbol">&#8363;</span></span></s></span>
-                			</div>
-            <div class="product-actions text-center clearfix">
-                <a href="https://at10.mediawz.com/san-pham/cu-den/">
-                	<button type="button" class="btn-buyNow buy-now medium--hide small--hide" data-id="1026777806">Chi tiết</button>
-                </a>
-            </div>
-        </div>
-    </div>
-</div>
-                                    <div class="md-pd-left10 grid__item large--one-quarter medium--one-third small--one-half">
-	<div class="product-item">
-        <div class="product-img">
-            <a href="https://at10.mediawz.com/san-pham/nho-xanh/">
-               <img width="260" height="260" src="https://at10.mediawz.com/wp-content/uploads/2019/06/17_f6c9824688c548a0a2a1c953912bb97a_large-260x260.jpg" class="attachment-thumb_260x260 size-thumb_260x260 wp-post-image" alt="NHO XANH" srcset="https://at10.mediawz.com/wp-content/uploads/2019/06/17_f6c9824688c548a0a2a1c953912bb97a_large-260x260.jpg 260w, https://at10.mediawz.com/wp-content/uploads/2019/06/17_f6c9824688c548a0a2a1c953912bb97a_large-300x300.jpg 300w, https://at10.mediawz.com/wp-content/uploads/2019/06/17_f6c9824688c548a0a2a1c953912bb97a_large-100x100.jpg 100w, https://at10.mediawz.com/wp-content/uploads/2019/06/17_f6c9824688c548a0a2a1c953912bb97a_large-150x150.jpg 150w, https://at10.mediawz.com/wp-content/uploads/2019/06/17_f6c9824688c548a0a2a1c953912bb97a_large.jpg 480w" sizes="100vw" />            </a>
-        </div>
-        <div class="product-info">
-            <div class="product-title">
-            	<a href="https://at10.mediawz.com/san-pham/nho-xanh/">NHO XANH</a>
-            </div>
-                        <div class="product-price clearfix">
-            	                	<span class="current-price"><span class="woocommerce-Price-amount amount">12,000<span class="woocommerce-Price-currencySymbol">&#8363;</span></span></span>
-                	<span class="original-price"><s><span class="woocommerce-Price-amount amount">15,000<span class="woocommerce-Price-currencySymbol">&#8363;</span></span></s></span>
-                			</div>
-            <div class="product-actions text-center clearfix">
-                <a href="https://at10.mediawz.com/san-pham/nho-xanh/">
-                	<button type="button" class="btn-buyNow buy-now medium--hide small--hide" data-id="1026777806">Chi tiết</button>
-                </a>
-            </div>
-        </div>
-    </div>
-</div>
-                                    <div class="md-pd-left10 grid__item large--one-quarter medium--one-third small--one-half">
-	<div class="product-item">
-        <div class="product-img">
-            <a href="https://at10.mediawz.com/san-pham/cam-cao-phong/">
-               <img width="260" height="260" src="https://at10.mediawz.com/wp-content/uploads/2019/06/10_large-260x260.jpg" class="attachment-thumb_260x260 size-thumb_260x260 wp-post-image" alt="Cam Cao Phong" srcset="https://at10.mediawz.com/wp-content/uploads/2019/06/10_large-260x260.jpg 260w, https://at10.mediawz.com/wp-content/uploads/2019/06/10_large-300x300.jpg 300w, https://at10.mediawz.com/wp-content/uploads/2019/06/10_large-100x100.jpg 100w, https://at10.mediawz.com/wp-content/uploads/2019/06/10_large-150x150.jpg 150w, https://at10.mediawz.com/wp-content/uploads/2019/06/10_large.jpg 480w" sizes="100vw" />            </a>
-        </div>
-        <div class="product-info">
-            <div class="product-title">
-            	<a href="https://at10.mediawz.com/san-pham/cam-cao-phong/">Cam Cao Phong</a>
-            </div>
-                        <div class="product-price clearfix">
-            	                	<span class="current-price"><span class="woocommerce-Price-amount amount">12,000<span class="woocommerce-Price-currencySymbol">&#8363;</span></span></span>
-                	<span class="original-price"><s><span class="woocommerce-Price-amount amount">15,000<span class="woocommerce-Price-currencySymbol">&#8363;</span></span></s></span>
-                			</div>
-            <div class="product-actions text-center clearfix">
-                <a href="https://at10.mediawz.com/san-pham/cam-cao-phong/">
-                	<button type="button" class="btn-buyNow buy-now medium--hide small--hide" data-id="1026777806">Chi tiết</button>
-                </a>
-            </div>
-        </div>
-    </div>
-</div>
+        @if($searchResults->isEmpty())
+            <p>Không tìm thấy sản phẩm nào.</p>
+        @else
+            <div class="grid-uniform md-mg-left-10 products columns-4">
+                @foreach($searchResults as $tfood)
+                    <div class="md-pd-left10 grid__item large--one-quarter medium--one-third small--one-half">
+                        <div class="product-item">
+                            <div class="product-img">
+                                <a href="{{ route('tfoods.detail', ['id' => $tfood->id]) }}">
+                                    <img width="260" height="260" src="{{ asset('images/'.$tfood->image) }}" class="attachment-thumb_260x260 size-thumb_260x260 wp-post-image" alt="{{ $tfood->pr_name }}" sizes="100vw" />
+                                </a>
                             </div>
-        </div>
-	</section>
-
-    </div>
-</div>
-
-</main></div>            </div>
-        </div>
-	</section>
-	</div><!-- #PageContainer -->
-    <em>
-    	        <style>
-		#footer{
-			position:relative;
-		}
-		#footer:before{
-			content: "";
-			position: absolute;
-			width: 100%;
-			height: 100%;
-			background: rgba(0, 0, 0, 0.8);
-			z-index: 1;
-			top: 0;
-			bottom: 0;
-		}#footer > *{
-			position:relative;
-			z-index: 2;
-		}
-	</style>
-        <footer id="footer"  >
-        	<div class="wrapper">
-            	<div class="inner">
-                	<div class="footer-logo text-center">
-    <a href="https://at10.mediawz.com">
-        <img src="https://at10.mediawz.com/wp-content/uploads/2021/06/AT10-1.png" alt="AT10 FOOD">
-    </a>
-        <div class="ft-social-network">
-    	        <a target="_blank" href="#fb" class="fb-icon"><svg class="svg-inline--fa fa-facebook fa-w-14" aria-hidden="true" data-prefix="fab" data-icon="facebook" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" data-fa-i2svg=""><path fill="currentColor" d="M448 56.7v398.5c0 13.7-11.1 24.7-24.7 24.7H309.1V306.5h58.2l8.7-67.6h-67v-43.2c0-19.6 5.4-32.9 33.5-32.9h35.8v-60.5c-6.2-.8-27.4-2.7-52.2-2.7-51.6 0-87 31.5-87 89.4v49.9h-58.4v67.6h58.4V480H24.7C11.1 480 0 468.9 0 455.3V56.7C0 43.1 11.1 32 24.7 32h398.5c13.7 0 24.8 11.1 24.8 24.7z"></path></svg><!-- <i class="fab fa-facebook"></i> --></a>
-                <a target="_blank" href="#in" class="ins-icon"><svg class="svg-inline--fa fa-instagram fa-w-14" aria-hidden="true" data-prefix="fab" data-icon="instagram" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" data-fa-i2svg=""><path fill="currentColor" d="M224.1 141c-63.6 0-114.9 51.3-114.9 114.9s51.3 114.9 114.9 114.9S339 319.5 339 255.9 287.7 141 224.1 141zm0 189.6c-41.1 0-74.7-33.5-74.7-74.7s33.5-74.7 74.7-74.7 74.7 33.5 74.7 74.7-33.6 74.7-74.7 74.7zm146.4-194.3c0 14.9-12 26.8-26.8 26.8-14.9 0-26.8-12-26.8-26.8s12-26.8 26.8-26.8 26.8 12 26.8 26.8zm76.1 27.2c-1.7-35.9-9.9-67.7-36.2-93.9-26.2-26.2-58-34.4-93.9-36.2-37-2.1-147.9-2.1-184.9 0-35.8 1.7-67.6 9.9-93.9 36.1s-34.4 58-36.2 93.9c-2.1 37-2.1 147.9 0 184.9 1.7 35.9 9.9 67.7 36.2 93.9s58 34.4 93.9 36.2c37 2.1 147.9 2.1 184.9 0 35.9-1.7 67.7-9.9 93.9-36.2 26.2-26.2 34.4-58 36.2-93.9 2.1-37 2.1-147.8 0-184.8zM398.8 388c-7.8 19.6-22.9 34.7-42.6 42.6-29.5 11.7-99.5 9-132.1 9s-102.7 2.6-132.1-9c-19.6-7.8-34.7-22.9-42.6-42.6-11.7-29.5-9-99.5-9-132.1s-2.6-102.7 9-132.1c7.8-19.6 22.9-34.7 42.6-42.6 29.5-11.7 99.5-9 132.1-9s102.7-2.6 132.1 9c19.6 7.8 34.7 22.9 42.6 42.6 11.7 29.5 9 99.5 9 132.1s2.7 102.7-9 132.1z"></path></svg><!-- <i class="fab fa-instagram"></i> --></a>
-                <a target="_blank" href="#you" class="yt-icon"><svg class="svg-inline--fa fa-youtube fa-w-18" aria-hidden="true" data-prefix="fab" data-icon="youtube" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512" data-fa-i2svg=""><path fill="currentColor" d="M549.655 124.083c-6.281-23.65-24.787-42.276-48.284-48.597C458.781 64 288 64 288 64S117.22 64 74.629 75.486c-23.497 6.322-42.003 24.947-48.284 48.597-11.412 42.867-11.412 132.305-11.412 132.305s0 89.438 11.412 132.305c6.281 23.65 24.787 41.5 48.284 47.821C117.22 448 288 448 288 448s170.78 0 213.371-11.486c23.497-6.321 42.003-24.171 48.284-47.821 11.412-42.867 11.412-132.305 11.412-132.305s0-89.438-11.412-132.305zm-317.51 213.508V175.185l142.739 81.205-142.739 81.201z"></path></svg><!-- <i class="fab fa-youtube" aria-hidden="true"></i> --></a>
-                                                 
-        <a target="_blank" href="#Twitter" class="tw-icon"><svg class="svg-inline--fa fa-twitter fa-w-16" aria-hidden="true" data-prefix="fab" data-icon="twitter" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""><path fill="currentColor" d="M459.37 151.716c.325 4.548.325 9.097.325 13.645 0 138.72-105.583 298.558-298.558 298.558-59.452 0-114.68-17.219-161.137-47.106 8.447.974 16.568 1.299 25.34 1.299 49.055 0 94.213-16.568 130.274-44.832-46.132-.975-84.792-31.188-98.112-72.772 6.498.974 12.995 1.624 19.818 1.624 9.421 0 18.843-1.3 27.614-3.573-48.081-9.747-84.143-51.98-84.143-102.985v-1.299c13.969 7.797 30.214 12.67 47.431 13.319-28.264-18.843-46.781-51.005-46.781-87.391 0-19.492 5.197-37.36 14.294-52.954 51.655 63.675 129.3 105.258 216.365 109.807-1.624-7.797-2.599-15.918-2.599-24.04 0-57.828 46.782-104.934 104.934-104.934 30.213 0 57.502 12.67 76.67 33.137 23.715-4.548 46.456-13.32 66.599-25.34-7.798 24.366-24.366 44.833-46.132 57.827 21.117-2.273 41.584-8.122 60.426-16.243-14.292 20.791-32.161 39.308-52.628 54.253z"></path></svg><!-- <i class="fab fa-twitter" aria-hidden="true"></i> --></a>
-                <a target="_blank" href="#gp" class="gg-icon"><svg class="svg-inline--fa fa-google-plus fa-w-16" aria-hidden="true" data-prefix="fab" data-icon="google-plus" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 496 512" data-fa-i2svg=""><path fill="currentColor" d="M248 8C111.1 8 0 119.1 0 256s111.1 248 248 248 248-111.1 248-248S384.9 8 248 8zm-70.7 372c-68.8 0-124-55.5-124-124s55.2-124 124-124c31.3 0 60.1 11 83 32.3l-33.6 32.6c-13.2-12.9-31.3-19.1-49.4-19.1-42.9 0-77.2 35.5-77.2 78.1s34.2 78.1 77.2 78.1c32.6 0 64.9-19.1 70.1-53.3h-70.1v-42.6h116.9c1.3 6.8 1.9 13.6 1.9 20.7 0 70.8-47.5 121.2-118.8 121.2zm230.2-106.2v35.5H372v-35.5h-35.5v-35.5H372v-35.5h35.5v35.5h35.2v35.5h-35.2z"></path></svg><!-- <i class="fab fa-google-plus" aria-hidden="true"></i> --></a>
-            
-    </div>
-</div>                    <div id="w366-footer-main" class="grid-uniform">
-	<section id="w366_footer_contact-2" class="widget w366_footer_contact grid__item large--one-quarter medium--one-half small--one-whole">           <div class="footer-info">
-                <h3 class="footer-title">LIÊN HỆ</h3>                <ul class="no-bullets">
-                    <li>
-                        <svg class="svg-inline--fa fa-map-marker fa-w-12" aria-hidden="true" data-prefix="fa" data-icon="map-marker" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512" data-fa-i2svg=""><path fill="currentColor" d="M172.268 501.67C26.97 291.031 0 269.413 0 192 0 85.961 85.961 0 192 0s192 85.961 192 192c0 77.413-26.97 99.031-172.268 309.67-9.535 13.774-29.93 13.773-39.464 0z"></path></svg><!-- <i class="fa fa-map-marker" aria-hidden="true"></i> --> 
-                        <span>Số 123 Đường Phan Chu Trinh, Quận 10, TP.HCM</span>
-                    </li>
-                    <li>
-                        <svg class="svg-inline--fa fa-phone fa-w-16" aria-hidden="true" data-prefix="fa" data-icon="phone" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""><path fill="currentColor" d="M493.397 24.615l-104-23.997c-11.314-2.611-22.879 3.252-27.456 13.931l-48 111.997a24 24 0 0 0 6.862 28.029l60.617 49.596c-35.973 76.675-98.938 140.508-177.249 177.248l-49.596-60.616a24 24 0 0 0-28.029-6.862l-111.997 48C3.873 366.516-1.994 378.08.618 389.397l23.997 104C27.109 504.204 36.748 512 48 512c256.087 0 464-207.532 464-464 0-11.176-7.714-20.873-18.603-23.385z"></path></svg><!-- <i class="fa fa-phone" aria-hidden="true"></i> --> <a href="tel:0123.456.789">0123.456.789</a>
-                    </li>
-                    <li>
-                        <svg class="svg-inline--fa fa-envelope fa-w-16" aria-hidden="true" data-prefix="fa" data-icon="envelope" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""><path fill="currentColor" d="M502.3 190.8c3.9-3.1 9.7-.2 9.7 4.7V400c0 26.5-21.5 48-48 48H48c-26.5 0-48-21.5-48-48V195.6c0-5 5.7-7.8 9.7-4.7 22.4 17.4 52.1 39.5 154.1 113.6 21.1 15.4 56.7 47.8 92.2 47.6 35.7.3 72-32.8 92.3-47.6 102-74.1 131.6-96.3 154-113.7zM256 320c23.2.4 56.6-29.2 73.4-41.4 132.7-96.3 142.8-104.7 173.4-128.7 5.8-4.5 9.2-11.5 9.2-18.9v-19c0-26.5-21.5-48-48-48H48C21.5 64 0 85.5 0 112v19c0 7.4 3.4 14.3 9.2 18.9 30.6 23.9 40.7 32.4 173.4 128.7 16.8 12.2 50.2 41.8 73.4 41.4z"></path></svg><!-- <i class="fa fa-envelope" aria-hidden="true"></i> --> <a href="mailto:contact@demo.com">contact@demo.com</a>
-                    </li>
-                </ul>
+                            <div class="product-info">
+                                <div class="product-title">
+                                    <a href="{{ route('tfoods.detail', ['id' => $tfood->id]) }}">{{ $tfood->pr_name }}</a>
+                                </div>
+                                <div class="product-price clearfix">
+                                    <span class="current-price">
+                                        <span class="woocommerce-Price-amount amount">
+                                            {{ $tfood->pr_price_new }}
+                                            <span class="woocommerce-Price-currencySymbol">&#8363;</span>
+                                        </span>
+                                    </span>
+                                    <span class="original-price">
+                                        <s>
+                                            <span class="woocommerce-Price-amount amount">
+                                                {{ $tfood->pr_price }}
+                                                <span class="woocommerce-Price-currencySymbol">&#8363;</span>
+                                            </span>
+                                        </s>
+                                    </span>
+                                </div>
+                                <div class="product-actions text-center clearfix">
+                                    <a href="{{ route('tfoods.detail', ['id' => $tfood->id]) }}">
+                                        <button type="button" class="btn-buyNow buy-now medium--hide small--hide" data-id="{{ $tfood->id }}">Chi tiết</button>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                @endforeach  
             </div>
-        </section><section id="nav_menu-2" class="widget widget_nav_menu grid__item large--one-quarter medium--one-half small--one-whole"><h3 class="footer-title">HỖ TRỢ KHÁCH HÀNG</h3><div class="menu-footer-1-container"><ul id="menu-footer-1" class="menu"><li id="menu-item-60" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-60"><a href="https://at10.mediawz.com/kinh-nghiem-mua-hang/">Kinh nghiệm mua hàng</a></li>
+        @endif
+    </div>
+    </div><!-- #secondary -->
+</div><!-- .wrap -->
+
+</div><!-- #PageContainer -->
+<em>
+    <style>
+#footer{
+position:relative;
+}
+#footer:before{
+content: "";
+position: absolute;
+width: 100%;
+height: 100%;
+background: rgba(0, 0, 0, 0.8);
+z-index: 1;
+top: 0;
+bottom: 0;
+}#footer > *{
+position:relative;
+z-index: 2;
+}
+</style>
+<footer id="footer"  >
+<div class="wrapper">
+    <div class="inner">
+        <div class="footer-logo text-center">
+<a href="https://at10.mediawz.com">
+<img src="https://at10.mediawz.com/wp-content/uploads/2021/06/AT10-1.png" alt="AT10 FOOD">
+</a>
+<div class="ft-social-network">
+    <a target="_blank" href="#fb" class="fb-icon"><svg class="svg-inline--fa fa-facebook fa-w-14" aria-hidden="true" data-prefix="fab" data-icon="facebook" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" data-fa-i2svg=""><path fill="currentColor" d="M448 56.7v398.5c0 13.7-11.1 24.7-24.7 24.7H309.1V306.5h58.2l8.7-67.6h-67v-43.2c0-19.6 5.4-32.9 33.5-32.9h35.8v-60.5c-6.2-.8-27.4-2.7-52.2-2.7-51.6 0-87 31.5-87 89.4v49.9h-58.4v67.6h58.4V480H24.7C11.1 480 0 468.9 0 455.3V56.7C0 43.1 11.1 32 24.7 32h398.5c13.7 0 24.8 11.1 24.8 24.7z"></path></svg><!-- <i class="fab fa-facebook"></i> --></a>
+    <a target="_blank" href="#in" class="ins-icon"><svg class="svg-inline--fa fa-instagram fa-w-14" aria-hidden="true" data-prefix="fab" data-icon="instagram" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" data-fa-i2svg=""><path fill="currentColor" d="M224.1 141c-63.6 0-114.9 51.3-114.9 114.9s51.3 114.9 114.9 114.9S339 319.5 339 255.9 287.7 141 224.1 141zm0 189.6c-41.1 0-74.7-33.5-74.7-74.7s33.5-74.7 74.7-74.7 74.7 33.5 74.7 74.7-33.6 74.7-74.7 74.7zm146.4-194.3c0 14.9-12 26.8-26.8 26.8-14.9 0-26.8-12-26.8-26.8s12-26.8 26.8-26.8 26.8 12 26.8 26.8zm76.1 27.2c-1.7-35.9-9.9-67.7-36.2-93.9-26.2-26.2-58-34.4-93.9-36.2-37-2.1-147.9-2.1-184.9 0-35.8 1.7-67.6 9.9-93.9 36.1s-34.4 58-36.2 93.9c-2.1 37-2.1 147.9 0 184.9 1.7 35.9 9.9 67.7 36.2 93.9s58 34.4 93.9 36.2c37 2.1 147.9 2.1 184.9 0 35.9-1.7 67.7-9.9 93.9-36.2 26.2-26.2 34.4-58 36.2-93.9 2.1-37 2.1-147.8 0-184.8zM398.8 388c-7.8 19.6-22.9 34.7-42.6 42.6-29.5 11.7-99.5 9-132.1 9s-102.7 2.6-132.1-9c-19.6-7.8-34.7-22.9-42.6-42.6-11.7-29.5-9-99.5-9-132.1s-2.6-102.7 9-132.1c7.8-19.6 22.9-34.7 42.6-42.6 29.5-11.7 99.5-9 132.1-9s102.7-2.6 132.1 9c19.6 7.8 34.7 22.9 42.6 42.6 11.7 29.5 9 99.5 9 132.1s2.7 102.7-9 132.1z"></path></svg><!-- <i class="fab fa-instagram"></i> --></a>
+    <a target="_blank" href="#you" class="yt-icon"><svg class="svg-inline--fa fa-youtube fa-w-18" aria-hidden="true" data-prefix="fab" data-icon="youtube" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512" data-fa-i2svg=""><path fill="currentColor" d="M549.655 124.083c-6.281-23.65-24.787-42.276-48.284-48.597C458.781 64 288 64 288 64S117.22 64 74.629 75.486c-23.497 6.322-42.003 24.947-48.284 48.597-11.412 42.867-11.412 132.305-11.412 132.305s0 89.438 11.412 132.305c6.281 23.65 24.787 41.5 48.284 47.821C117.22 448 288 448 288 448s170.78 0 213.371-11.486c23.497-6.321 42.003-24.171 48.284-47.821 11.412-42.867 11.412-132.305 11.412-132.305s0-89.438-11.412-132.305zm-317.51 213.508V175.185l142.739 81.205-142.739 81.201z"></path></svg><!-- <i class="fab fa-youtube" aria-hidden="true"></i> --></a>
+                                     
+<a target="_blank" href="#Twitter" class="tw-icon"><svg class="svg-inline--fa fa-twitter fa-w-16" aria-hidden="true" data-prefix="fab" data-icon="twitter" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""><path fill="currentColor" d="M459.37 151.716c.325 4.548.325 9.097.325 13.645 0 138.72-105.583 298.558-298.558 298.558-59.452 0-114.68-17.219-161.137-47.106 8.447.974 16.568 1.299 25.34 1.299 49.055 0 94.213-16.568 130.274-44.832-46.132-.975-84.792-31.188-98.112-72.772 6.498.974 12.995 1.624 19.818 1.624 9.421 0 18.843-1.3 27.614-3.573-48.081-9.747-84.143-51.98-84.143-102.985v-1.299c13.969 7.797 30.214 12.67 47.431 13.319-28.264-18.843-46.781-51.005-46.781-87.391 0-19.492 5.197-37.36 14.294-52.954 51.655 63.675 129.3 105.258 216.365 109.807-1.624-7.797-2.599-15.918-2.599-24.04 0-57.828 46.782-104.934 104.934-104.934 30.213 0 57.502 12.67 76.67 33.137 23.715-4.548 46.456-13.32 66.599-25.34-7.798 24.366-24.366 44.833-46.132 57.827 21.117-2.273 41.584-8.122 60.426-16.243-14.292 20.791-32.161 39.308-52.628 54.253z"></path></svg><!-- <i class="fab fa-twitter" aria-hidden="true"></i> --></a>
+    <a target="_blank" href="#gp" class="gg-icon"><svg class="svg-inline--fa fa-google-plus fa-w-16" aria-hidden="true" data-prefix="fab" data-icon="google-plus" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 496 512" data-fa-i2svg=""><path fill="currentColor" d="M248 8C111.1 8 0 119.1 0 256s111.1 248 248 248 248-111.1 248-248S384.9 8 248 8zm-70.7 372c-68.8 0-124-55.5-124-124s55.2-124 124-124c31.3 0 60.1 11 83 32.3l-33.6 32.6c-13.2-12.9-31.3-19.1-49.4-19.1-42.9 0-77.2 35.5-77.2 78.1s34.2 78.1 77.2 78.1c32.6 0 64.9-19.1 70.1-53.3h-70.1v-42.6h116.9c1.3 6.8 1.9 13.6 1.9 20.7 0 70.8-47.5 121.2-118.8 121.2zm230.2-106.2v35.5H372v-35.5h-35.5v-35.5H372v-35.5h35.5v35.5h35.2v35.5h-35.2z"></path></svg><!-- <i class="fab fa-google-plus" aria-hidden="true"></i> --></a>
+
+</div>
+</div>                    <div id="w366-footer-main" class="grid-uniform">
+<section id="w366_footer_contact-2" class="widget w366_footer_contact grid__item large--one-quarter medium--one-half small--one-whole">           <div class="footer-info">
+    <h3 class="footer-title">LIÊN HỆ</h3>                <ul class="no-bullets">
+        <li>
+            <svg class="svg-inline--fa fa-map-marker fa-w-12" aria-hidden="true" data-prefix="fa" data-icon="map-marker" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512" data-fa-i2svg=""><path fill="currentColor" d="M172.268 501.67C26.97 291.031 0 269.413 0 192 0 85.961 85.961 0 192 0s192 85.961 192 192c0 77.413-26.97 99.031-172.268 309.67-9.535 13.774-29.93 13.773-39.464 0z"></path></svg><!-- <i class="fa fa-map-marker" aria-hidden="true"></i> --> 
+            <span>Số 123 Đường Phan Chu Trinh, Quận 10, TP.HCM</span>
+        </li>
+        <li>
+            <svg class="svg-inline--fa fa-phone fa-w-16" aria-hidden="true" data-prefix="fa" data-icon="phone" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""><path fill="currentColor" d="M493.397 24.615l-104-23.997c-11.314-2.611-22.879 3.252-27.456 13.931l-48 111.997a24 24 0 0 0 6.862 28.029l60.617 49.596c-35.973 76.675-98.938 140.508-177.249 177.248l-49.596-60.616a24 24 0 0 0-28.029-6.862l-111.997 48C3.873 366.516-1.994 378.08.618 389.397l23.997 104C27.109 504.204 36.748 512 48 512c256.087 0 464-207.532 464-464 0-11.176-7.714-20.873-18.603-23.385z"></path></svg><!-- <i class="fa fa-phone" aria-hidden="true"></i> --> <a href="tel:0123.456.789">0123.456.789</a>
+        </li>
+        <li>
+            <svg class="svg-inline--fa fa-envelope fa-w-16" aria-hidden="true" data-prefix="fa" data-icon="envelope" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""><path fill="currentColor" d="M502.3 190.8c3.9-3.1 9.7-.2 9.7 4.7V400c0 26.5-21.5 48-48 48H48c-26.5 0-48-21.5-48-48V195.6c0-5 5.7-7.8 9.7-4.7 22.4 17.4 52.1 39.5 154.1 113.6 21.1 15.4 56.7 47.8 92.2 47.6 35.7.3 72-32.8 92.3-47.6 102-74.1 131.6-96.3 154-113.7zM256 320c23.2.4 56.6-29.2 73.4-41.4 132.7-96.3 142.8-104.7 173.4-128.7 5.8-4.5 9.2-11.5 9.2-18.9v-19c0-26.5-21.5-48-48-48H48C21.5 64 0 85.5 0 112v19c0 7.4 3.4 14.3 9.2 18.9 30.6 23.9 40.7 32.4 173.4 128.7 16.8 12.2 50.2 41.8 73.4 41.4z"></path></svg><!-- <i class="fa fa-envelope" aria-hidden="true"></i> --> <a href="mailto:contact@demo.com">contact@demo.com</a>
+        </li>
+    </ul>
+</div>
+</section><section id="nav_menu-2" class="widget widget_nav_menu grid__item large--one-quarter medium--one-half small--one-whole"><h3 class="footer-title">HỖ TRỢ KHÁCH HÀNG</h3><div class="menu-footer-1-container"><ul id="menu-footer-1" class="menu"><li id="menu-item-60" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-60"><a href="https://at10.mediawz.com/kinh-nghiem-mua-hang/">Kinh nghiệm mua hàng</a></li>
 <li id="menu-item-61" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-61"><a href="https://at10.mediawz.com/huong-dan-mua-hang/">Hướng dẫn mua hàng</a></li>
 <li id="menu-item-59" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-59"><a href="https://at10.mediawz.com/chinh-sach-doi-tra/">Chính sách đổi trả</a></li>
 <li id="menu-item-58" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-58"><a href="https://at10.mediawz.com/hinh-thuc-thanh-toan/">Hình thức thanh toán</a></li>
@@ -616,94 +369,88 @@ img.emoji {
 <li id="menu-item-64" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-64"><a href="https://at10.mediawz.com/kinh-nghiem-mua-hang/">Kinh nghiệm mua hàng</a></li>
 <li id="menu-item-65" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-65"><a href="https://at10.mediawz.com/huong-dan-mua-hang/">Hướng dẫn mua hàng</a></li>
 </ul></div></section><section id="w366_footer_gallery-2" class="widget w366_footer_gallery grid__item large--one-quarter medium--one-half small--one-whole">				<div class="ft-gallery">
-					<h3 class="footer-title">GALLERY</h3>					<div class="grid gallery-wrapper mg-left-15">
-                    	                         	<div class=" grid__item large--one-third medium--one-third small--one-third  pd-left15">
-                                <div class="gallery-item">
-                                    <a href="https://at10.mediawz.com/wp-content/uploads/2019/06/ms_banner_img3.jpg" class="fancybox" data-fancybox="home-gallery-images" data-fancybox-group="gallery6649d59a2b3d9" data-caption="gallery 1">
-                                        <img src="https://at10.mediawz.com/wp-content/uploads/2019/06/ms_banner_img3.jpg" alt="GALLERY">
-                                        <div class="overlay"></div>
-                                    </a>
-                                </div>
-                            </div>	
-                                                  	<div class=" grid__item large--one-third medium--one-third small--one-third  pd-left15">
-                                <div class="gallery-item">
-                                    <a href="https://at10.mediawz.com/wp-content/uploads/2019/06/ms_banner_img2.jpg" class="fancybox" data-fancybox="home-gallery-images" data-fancybox-group="gallery6649d59a2b3d9" data-caption="gallery 1">
-                                        <img src="https://at10.mediawz.com/wp-content/uploads/2019/06/ms_banner_img2.jpg" alt="GALLERY">
-                                        <div class="overlay"></div>
-                                    </a>
-                                </div>
-                            </div>	
-                                                  	<div class=" grid__item large--one-third medium--one-third small--one-third  pd-left15">
-                                <div class="gallery-item">
-                                    <a href="https://at10.mediawz.com/wp-content/uploads/2019/06/ms_banner_img1.jpg" class="fancybox" data-fancybox="home-gallery-images" data-fancybox-group="gallery6649d59a2b3d9" data-caption="gallery 1">
-                                        <img src="https://at10.mediawz.com/wp-content/uploads/2019/06/ms_banner_img1.jpg" alt="GALLERY">
-                                        <div class="overlay"></div>
-                                    </a>
-                                </div>
-                            </div>	
-                                                  	<div class=" grid__item large--one-third medium--one-third small--one-third  pd-left15">
-                                <div class="gallery-item">
-                                    <a href="https://at10.mediawz.com/wp-content/uploads/2019/06/ms_banner_img3.jpg" class="fancybox" data-fancybox="home-gallery-images" data-fancybox-group="gallery6649d59a2b3d9" data-caption="gallery 1">
-                                        <img src="https://at10.mediawz.com/wp-content/uploads/2019/06/ms_banner_img3.jpg" alt="GALLERY">
-                                        <div class="overlay"></div>
-                                    </a>
-                                </div>
-                            </div>	
-                                                  	<div class=" grid__item large--one-third medium--one-third small--one-third  pd-left15">
-                                <div class="gallery-item">
-                                    <a href="https://at10.mediawz.com/wp-content/uploads/2019/06/ms_banner_img2.jpg" class="fancybox" data-fancybox="home-gallery-images" data-fancybox-group="gallery6649d59a2b3d9" data-caption="gallery 1">
-                                        <img src="https://at10.mediawz.com/wp-content/uploads/2019/06/ms_banner_img2.jpg" alt="GALLERY">
-                                        <div class="overlay"></div>
-                                    </a>
-                                </div>
-                            </div>	
-                                                  	<div class=" grid__item large--one-third medium--one-third small--one-third  pd-left15">
-                                <div class="gallery-item">
-                                    <a href="https://at10.mediawz.com/wp-content/uploads/2019/06/ms_banner_img1.jpg" class="fancybox" data-fancybox="home-gallery-images" data-fancybox-group="gallery6649d59a2b3d9" data-caption="gallery 1">
-                                        <img src="https://at10.mediawz.com/wp-content/uploads/2019/06/ms_banner_img1.jpg" alt="GALLERY">
-                                        <div class="overlay"></div>
-                                    </a>
-                                </div>
-                            </div>	
-                         					</div>
-				</div>
-			</section></div>                </div>
-            </div>
-            <div class="footer-copyright text-center">Copyrights © 2024 AT10 FOOD.
-			  
-			</div>
-        </footer><!-- #colophon -->
-  	</em>
+        <h3 class="footer-title">GALLERY</h3>					<div class="grid gallery-wrapper mg-left-15">
+                                         <div class=" grid__item large--one-third medium--one-third small--one-third  pd-left15">
+                    <div class="gallery-item">
+                        <a href="https://at10.mediawz.com/wp-content/uploads/2019/06/ms_banner_img3.jpg" class="fancybox" data-fancybox="home-gallery-images" data-fancybox-group="gallery664cc2e33e6e6" data-caption="gallery 1">
+                            <img src="https://at10.mediawz.com/wp-content/uploads/2019/06/ms_banner_img3.jpg" alt="GALLERY">
+                            <div class="overlay"></div>
+                        </a>
+                    </div>
+                </div>	
+                                          <div class=" grid__item large--one-third medium--one-third small--one-third  pd-left15">
+                    <div class="gallery-item">
+                        <a href="https://at10.mediawz.com/wp-content/uploads/2019/06/ms_banner_img2.jpg" class="fancybox" data-fancybox="home-gallery-images" data-fancybox-group="gallery664cc2e33e6e6" data-caption="gallery 1">
+                            <img src="https://at10.mediawz.com/wp-content/uploads/2019/06/ms_banner_img2.jpg" alt="GALLERY">
+                            <div class="overlay"></div>
+                        </a>
+                    </div>
+                </div>	
+                                          <div class=" grid__item large--one-third medium--one-third small--one-third  pd-left15">
+                    <div class="gallery-item">
+                        <a href="https://at10.mediawz.com/wp-content/uploads/2019/06/ms_banner_img1.jpg" class="fancybox" data-fancybox="home-gallery-images" data-fancybox-group="gallery664cc2e33e6e6" data-caption="gallery 1">
+                            <img src="https://at10.mediawz.com/wp-content/uploads/2019/06/ms_banner_img1.jpg" alt="GALLERY">
+                            <div class="overlay"></div>
+                        </a>
+                    </div>
+                </div>	
+                                          <div class=" grid__item large--one-third medium--one-third small--one-third  pd-left15">
+                    <div class="gallery-item">
+                        <a href="https://at10.mediawz.com/wp-content/uploads/2019/06/ms_banner_img3.jpg" class="fancybox" data-fancybox="home-gallery-images" data-fancybox-group="gallery664cc2e33e6e6" data-caption="gallery 1">
+                            <img src="https://at10.mediawz.com/wp-content/uploads/2019/06/ms_banner_img3.jpg" alt="GALLERY">
+                            <div class="overlay"></div>
+                        </a>
+                    </div>
+                </div>	
+                                          <div class=" grid__item large--one-third medium--one-third small--one-third  pd-left15">
+                    <div class="gallery-item">
+                        <a href="https://at10.mediawz.com/wp-content/uploads/2019/06/ms_banner_img2.jpg" class="fancybox" data-fancybox="home-gallery-images" data-fancybox-group="gallery664cc2e33e6e6" data-caption="gallery 1">
+                            <img src="https://at10.mediawz.com/wp-content/uploads/2019/06/ms_banner_img2.jpg" alt="GALLERY">
+                            <div class="overlay"></div>
+                        </a>
+                    </div>
+                </div>	
+                                          <div class=" grid__item large--one-third medium--one-third small--one-third  pd-left15">
+                    <div class="gallery-item">
+                        <a href="https://at10.mediawz.com/wp-content/uploads/2019/06/ms_banner_img1.jpg" class="fancybox" data-fancybox="home-gallery-images" data-fancybox-group="gallery664cc2e33e6e6" data-caption="gallery 1">
+                            <img src="https://at10.mediawz.com/wp-content/uploads/2019/06/ms_banner_img1.jpg" alt="GALLERY">
+                            <div class="overlay"></div>
+                        </a>
+                    </div>
+                </div>	
+                                 </div>
+    </div>
+</section></div>                </div>
+</div>
+<div class="footer-copyright text-center">Copyrights © 2024 AT10 FOOD.
+  
+</div>
+</footer><!-- #colophon -->
+</em>
 </div><!-- #page -->
 
 <div id="back-to-top" class="medium--hide small--hide">
-	<div class="back-circle">
-		<div class="circle"></div>
-		<div class="circle"></div>
-		<div class="circle"></div>
-		<div class="circle"></div>
-	</div>
-	<a href="javascript:void(0)"><svg class="svg-inline--fa fa-angle-double-up fa-w-10" aria-hidden="true" data-prefix="fa" data-icon="angle-double-up" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512" data-fa-i2svg=""><path fill="currentColor" d="M177 255.7l136 136c9.4 9.4 9.4 24.6 0 33.9l-22.6 22.6c-9.4 9.4-24.6 9.4-33.9 0L160 351.9l-96.4 96.4c-9.4 9.4-24.6 9.4-33.9 0L7 425.7c-9.4-9.4-9.4-24.6 0-33.9l136-136c9.4-9.5 24.6-9.5 34-.1zm-34-192L7 199.7c-9.4 9.4-9.4 24.6 0 33.9l22.6 22.6c9.4 9.4 24.6 9.4 33.9 0l96.4-96.4 96.4 96.4c9.4 9.4 24.6 9.4 33.9 0l22.6-22.6c9.4-9.4 9.4-24.6 0-33.9l-136-136c-9.2-9.4-24.4-9.4-33.8 0z"></path></svg><!-- <i class="fa fa-angle-double-up" aria-hidden="true"></i> --></a>
+<div class="back-circle">
+<div class="circle"></div>
+<div class="circle"></div>
+<div class="circle"></div>
+<div class="circle"></div>
+</div>
+<a href="javascript:void(0)"><svg class="svg-inline--fa fa-angle-double-up fa-w-10" aria-hidden="true" data-prefix="fa" data-icon="angle-double-up" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512" data-fa-i2svg=""><path fill="currentColor" d="M177 255.7l136 136c9.4 9.4 9.4 24.6 0 33.9l-22.6 22.6c-9.4 9.4-24.6 9.4-33.9 0L160 351.9l-96.4 96.4c-9.4 9.4-24.6 9.4-33.9 0L7 425.7c-9.4-9.4-9.4-24.6 0-33.9l136-136c9.4-9.5 24.6-9.5 34-.1zm-34-192L7 199.7c-9.4 9.4-9.4 24.6 0 33.9l22.6 22.6c9.4 9.4 24.6 9.4 33.9 0l96.4-96.4 96.4 96.4c9.4 9.4 24.6 9.4 33.9 0l22.6-22.6c9.4-9.4 9.4-24.6 0-33.9l-136-136c-9.2-9.4-24.4-9.4-33.8 0z"></path></svg><!-- <i class="fa fa-angle-double-up" aria-hidden="true"></i> --></a>
 </div>
 
-<script type="application/ld+json">{"@context":"https:\/\/schema.org\/","@graph":[{"@context":"https:\/\/schema.org\/","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"item":{"name":"Trang ch\u1ee7","@id":"https:\/\/at10.mediawz.com"}},{"@type":"ListItem","position":2,"item":{"name":"S\u1ea3n ph\u1ea9m","@id":"https:\/\/at10.mediawz.com\/san-pham\/"}},{"@type":"ListItem","position":3,"item":{"name":"Rau h\u1eefu c\u01a1","@id":"https:\/\/at10.mediawz.com\/danh-muc-san-pham\/rau-huu-co\/"}},{"@type":"ListItem","position":4,"item":{"name":"M\u00d9NG T\u01a0I","@id":"https:\/\/at10.mediawz.com\/san-pham\/mung-toi\/"}}]},{"@context":"https:\/\/schema.org\/","@type":"Product","@id":"https:\/\/at10.mediawz.com\/san-pham\/mung-toi\/#product","name":"M\u00d9NG T\u01a0I","url":"https:\/\/at10.mediawz.com\/san-pham\/mung-toi\/","description":"Rau c\u1ea3i b\u1eafp h\u1eefu c\u01a1 (Brassica oleracea nh\u00f3m Capitata) l\u00e0 lo\u1ea1i rau ch\u1ee7 l\u1ef1c trong h\u1ecd C\u1ea3i (c\u00f2n g\u1ecdi l\u00e0 h\u1ecd Th\u1eadp t\u1ef1 - Brassicaceae\/Cruciferae),c\u00f3 xu\u1ea5t x\u1ee9 t\u1eeb v\u00f9ng \u0110\u1ecba Trung H\u1ea3i. N\u00f3 l\u00e0 c\u00e2y th\u00e2n th\u1ea3o, s\u1ed1ng hai n\u0103m, v\u00e0 l\u00e0 m\u1ed9t th\u1ef1c v\u1eadt c\u00f3 hoa thu\u1ed9c nh\u00f3m hai l\u00e1 m\u1ea7m v\u1edbi c\u00e1c l\u00e1 t\u1ea1o th\u00e0nh m\u1ed9t c\u1ee5m \u0111\u1eb7c h\u00ecnh g\u1ea7n nh\u01b0 h\u00ecnh c\u1ea7u.L\u00e0 m\u1ed9t lo\u1ea1i rau h\u1eefu c\u01a1 r\u1ea5t d\u1ec5 nh\u1eadn bi\u1ebft,kh\u00f3 c\u00f3 th\u1ec3 nh\u1ea7m l\u1eabn","image":"https:\/\/at10.mediawz.com\/wp-content\/uploads\/2019\/06\/mungtoi_large.jpg","sku":"MSP-07","offers":[{"@type":"Offer","price":"12000","priceValidUntil":"2025-12-31","priceSpecification":{"price":"12000","priceCurrency":"VND","valueAddedTaxIncluded":"false"},"priceCurrency":"VND","availability":"http:\/\/schema.org\/InStock","url":"https:\/\/at10.mediawz.com\/san-pham\/mung-toi\/","seller":{"@type":"Organization","name":"AT10 FOOD","url":"https:\/\/at10.mediawz.com"}}]}]}</script>	<script type="text/javascript">
-		var c = document.body.className;
-		c = c.replace(/woocommerce-no-js/, 'woocommerce-js');
-		document.body.className = c;
-	</script>
-	<script type='text/javascript' src='https://at10.mediawz.com/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.70'></script>
+<script type="text/javascript">
+var c = document.body.className;
+c = c.replace(/woocommerce-no-js/, 'woocommerce-js');
+document.body.className = c;
+</script>
+<script type='text/javascript' src='https://at10.mediawz.com/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.70'></script>
 <script type='text/javascript'>
 /* <![CDATA[ */
 var wc_add_to_cart_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%","i18n_view_cart":"Xem gi\u1ecf h\u00e0ng","cart_url":"https:\/\/at10.mediawz.com\/gio-hang\/","is_cart":"","cart_redirect_after_add":"no"};
 /* ]]> */
 </script>
 <script type='text/javascript' src='https://at10.mediawz.com/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=4.2.2'></script>
-<script type='text/javascript'>
-/* <![CDATA[ */
-var wc_single_product_params = {"i18n_required_rating_text":"Vui l\u00f2ng ch\u1ecdn m\u1ed9t m\u1ee9c \u0111\u00e1nh gi\u00e1","review_rating_required":"yes","flexslider":{"rtl":false,"animation":"slide","smoothHeight":true,"directionNav":false,"controlNav":"thumbnails","slideshow":false,"animationSpeed":500,"animationLoop":false,"allowOneSlide":false},"zoom_enabled":"","zoom_options":[],"photoswipe_enabled":"","photoswipe_options":{"shareEl":false,"closeOnScroll":false,"history":false,"hideAnimationDuration":0,"showAnimationDuration":0},"flexslider_enabled":""};
-/* ]]> */
-</script>
-<script type='text/javascript' src='https://at10.mediawz.com/wp-content/plugins/woocommerce/assets/js/frontend/single-product.min.js?ver=4.2.2'></script>
 <script type='text/javascript' src='https://at10.mediawz.com/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js?ver=2.1.4'></script>
 <script type='text/javascript'>
 /* <![CDATA[ */
@@ -729,7 +476,7 @@ var wpgs_var = {"wLightboxframewidth":"600","wcaption":"true"};
 jQuery(document).ready(function(){
 jQuery('.wpgs-for').slick({slidesToShow:1,slidesToScroll:1,arrows:true,fade:!1,infinite:!1,autoplay:false,nextArrow:'<i class="flaticon-right-arrow"></i>',prevArrow:'<i class="flaticon-back"></i>',asNavFor:'.wpgs-nav'});jQuery('.wpgs-nav').slick({slidesToShow:4,slidesToScroll:1,asNavFor:'.wpgs-for',dots:!1,infinite:!1,arrows:true,centerMode:!1,focusOnSelect:!0,responsive:[{breakpoint:767,settings:{slidesToShow:3,slidesToScroll:1,vertical:!1,draggable:!0,autoplay:!1,isMobile:!0,arrows:!1}},],})
 
-      });
+});
 </script>
 <script type='text/javascript'>
 /* <![CDATA[ */
@@ -740,7 +487,6 @@ var twentyseventeenScreenReaderText = {"quote":"<svg class=\"icon icon-quote-rig
 <script type='text/javascript' src='https://at10.mediawz.com/wp-content/themes/halinkat10/assets/js/navigation.js?ver=1.0'></script>
 <script type='text/javascript' src='https://at10.mediawz.com/wp-content/themes/halinkat10/assets/js/global.js?ver=1.0'></script>
 <script type='text/javascript' src='https://at10.mediawz.com/wp-content/themes/halinkat10/assets/js/jquery.scrollTo.js?ver=2.1.2'></script>
-<script type='text/javascript' src='https://at10.mediawz.com/wp-includes/js/comment-reply.min.js?ver=5.4.2'></script>
 <script type='text/javascript' src='https://at10.mediawz.com/wp-content/themes/halinkat10/dev/enqueue/js/OwlCarousel2-2.3.4/dist/owl.carousel.min.js?ver=2.3.4'></script>
 <script type='text/javascript' src='https://at10.mediawz.com/wp-content/themes/halinkat10/dev/enqueue/js/slick-1.8.1/slick/slick.min.js?ver=1.8.1'></script>
 <script type='text/javascript' src='https://at10.mediawz.com/wp-content/themes/halinkat10/dev/enqueue/js/fancybox-2.1.7/lib/jquery.mousewheel.pack.js?ver=2.1.7'></script>

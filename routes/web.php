@@ -1,7 +1,8 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
-
+use App\Http\Controllers\FoodController;
+use App\Http\Controllers\UserController;
 /*
 |--------------------------------------------------------------------------
 | Web Routes
@@ -13,9 +14,9 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::get('/', function () {
-    return view('demo');
-});
-Route::get('/detail', function () {
-    return view('detail');
-});
+
+Route::resource('tfoods',FoodController::class);
+Route::get('/', [UserController::class, 'index'])->name('user.index');
+Route::get('tfoods/{id}',[UserController::class,'show'])->name('tfoods.detail');
+Route::get('/search', [UserController::class, 'search'])->name('tfoods.search');
+Route::post('/tfoods/store', [FoodController::class, 'store'])->name('tfoods.store');
